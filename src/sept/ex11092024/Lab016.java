@@ -5,13 +5,13 @@ public class Lab016 {
 
         //Store distance between earth and moon
 
-        long distance_between_moon_earth = 384400000l;// in meter
+       // long distance_between_moon_earth = 384400000l;// in meter
         double distance_between_moon_earth = 384400000.865;// in meter
 
 
         // max age
         byte age = 122;
-        int age = 100; // wasting memory
+        //int age = 100; // wasting memory
         // int, and double we use most of the time while doing testing
 
 
