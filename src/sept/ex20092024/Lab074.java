@@ -43,7 +43,7 @@ public class Lab074 {
         if (Score >= 90 && Score <= 100) {
             grade = 'A';
 
-        } else if (Score >= 80 && Score <   = 89) {
+        } else if (Score >= 80 && Score <= 89) {
 
             grade = 'B';
 
